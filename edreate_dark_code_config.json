@@ -1,0 +1,33 @@
+{
+    "paddingVertical": "0px",
+    "paddingHorizontal": "0px",
+    "backgroundImage": null,
+    "backgroundImageSelection": null,
+    "backgroundMode": "color",
+    "backgroundColor": "rgba(255,255,255,0)",
+    "dropShadow": false,
+    "dropShadowOffsetY": "20px",
+    "dropShadowBlurRadius": "68px",
+    "theme": "one-dark",
+    "windowTheme": "none",
+    "language": "python",
+    "fontFamily": "Source Code Pro",
+    "fontSize": "14px",
+    "lineHeight": "133%",
+    "windowControls": true,
+    "widthAdjustment": true,
+    "lineNumbers": true,
+    "firstLineNumber": 1,
+    "exportSize": "4x",
+    "watermark": false,
+    "squaredImage": false,
+    "hiddenCharacters": false,
+    "name": "",
+    "width": "1200",
+    "highlights": {
+        "background": "rgba(12,12,12,1)",
+        "definition": "rgba(140,138,254,1)",
+        "string": "rgba(68,136,130,1)",
+        "comment": "rgba(192,188,161,1)"
+    }
+}
