@@ -5,3 +5,5 @@ These assets (logos, icons, fonts, and other brand media) are the property of Ed
 Any unauthorized use, reproduction, modification, or distribution of these assets is strictly prohibited.
 
 For inquiries regarding usage permissions, contact: edreate.content@gmail.com
+
+Checkout: [Edreate brand guidelines](Brand_Book/Brand_Book.pdf)
